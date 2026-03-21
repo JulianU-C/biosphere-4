@@ -1,4 +1,9 @@
-# Howdy let's do some RNA-seq analysis
+# Howdy let's do some gene-level RNA-seq analysis in R
+
+We will use the R script above to process the count data from a subset of control frogs from an RNA-seq experiment I ran a few years ago.
+Count data was generated using a workflow similar to Pertea et al. 2016 https://doi.org/10.1038/nprot.2016.095 (e.g. hisat2-stringtie-transdecoder2-eggnogmapper)
+
+If you want to see pipeline for transcriptome assembly, annotation, and read counts -- maybe I uploaded it already IDK I can't see into the future
 
 Download and decompress this folder wherever you'd like, best to keep in the biosphere-4 directory from last time.
 
